@@ -1,0 +1,13 @@
+{
+  "name": "日本新闻男声",
+  "owner": "赖程",
+  "voice_id": "jp_news_male_laicheng",
+  "provider": "minimax",
+  "endpoint": "https://api.minimaxi.com",
+  "model": "speech-2.5-hd-preview",
+  "language": "ja",
+  "source": "/Users/laicheng/Desktop/tk剪辑/11月/tk剪辑文件夹11.1/04-配音/11.1配音-去气口.mp3",
+  "segment": "3s–21s",
+  "duration_s": 18.04,
+  "created_at": "2026-11-02T03:32:23"
+}
