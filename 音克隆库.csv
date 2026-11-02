@@ -1,2 +1,4 @@
-责任人,音色名,voice_id,语言,模型,样音路径,克隆日期,备注
-赖程,日本新闻男声,jp_news_male_laicheng,ja,speech-2.5-hd-preview,音克隆库/赖程/日本新闻男声/sample.mp3,2026-11-02,18.04s 样音
+责任人,音色名,voice_id,语言,性别,状态,样音,备注
+赖程,NTV新闻女声,ntv_news_male,ja,female,ready,02-音克隆库/赖程/NTV新闻女声/sample.mp3,voice_id 沿用 ntv_news_male（服务器端 ID 不可改名），实为女声，F0≈242Hz
+赖程,日本新闻男声,jp_news_male_laicheng,ja,,deprecated,02-音克隆库/赖程/日本新闻男声/sample.mp3,样音克隆自 TTS 音频，听感机械，已弃用；不要再用于生产
+赖程,黄金神威男声（津田健次郎）,(待给),ja,male,待用户提供 voice_id,02-音克隆库/赖程/男声-黄金神威/sample.mp3,

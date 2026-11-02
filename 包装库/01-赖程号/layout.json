@@ -1,0 +1,46 @@
+{
+  "模板ID": "01-赖程号",
+  "责任人": "赖程",
+  "账号": "01",
+  "variant": "01",
+  "board": "红黑经典",
+  "canvas": "1080×1920",
+  "ratio": "9:16",
+  "margin": 84,
+  "top": 150,
+  "band_height": 144,
+  "white_rule": 6,
+  "title_lines": 2,
+  "title_max_px": 94,
+  "title_fit": "自动缩字号，最小36px",
+  "title_offset_y": 212,
+  "rule_offset_y": 30,
+  "image_box": {
+    "x0": 84,
+    "y0": 622,
+    "x1": 996,
+    "y1": 1500
+  },
+  "colors": {
+    "band": "#CC1A22",
+    "bg_top": "#0A0E18",
+    "bg_bot": "#121620",
+    "title": "#FFFFFF",
+    "sub": "#969EAC"
+  },
+  "font": {
+    "family": "Hiragino Sans GB",
+    "weight": "W6",
+    "index": 2
+  },
+  "forbidden": [
+    "改字体",
+    "改字号上限",
+    "改左右边距(84)",
+    "改顶部位置(150)",
+    "标题超过两行",
+    "标题压到画面区",
+    "非等比拉伸"
+  ],
+  "locked_at": "2026-11-02T13:16:23"
+}
